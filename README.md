@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m El — aka iamelsparky ⚡
 
-<!--
-**iamelsparky/iamelsparky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 Music creator turned cybersecurity learner — I’m from Nigeria and currently training to become a cybersecurity analyst through self-paced online learning and hands-on practice.
 
-Here are some ideas to get you started:
+🔐 Currently learning:
+- TryHackMe (Beginner → Junior Pen Tester Path)
+- Google Cybersecurity Professional Certificate
+- ISC2 Certified in Cybersecurity (CC)
+- Linux, Networking, Cyber Hygiene
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Building my cybersecurity portfolio while preparing to study in Ireland by 2026.
+
+🎯 Goals:
+- Earn key certifications (Security+, CEH)
+- Complete home lab projects
+- Secure digital assets in music & media
+- Work in the global cybersecurity industry
+
+🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/iamelsparky)
+- [GitHub Portfolio](https://github.com/iamelsparky)
+
+> “I protect systems the same way I protect my sound — with care, creativity, and precision.”
